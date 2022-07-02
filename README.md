@@ -53,9 +53,15 @@ ZKP(zero knowledge proofs) can make games fully onchain but currently blockchian
 - Don't want to interact with MetaMask everytime.  
 etc. 
 
+and not yet implemented features:
+- Can not play multi games simultaneously. (When other players are playing the game you can only just watch it.)
+- Not PvP but Player vs Bot. (Currently when you start playing the game, the bot automaticaly starts to play the game as your opponent for the convenience of a test play.)
+- No time limit. (When the player or bot stops playing in the middle, the game gets stuck…)
+- No upgradability.
+
 In the blockchain field, recently many problems have been solved by ZKP.  
-ZKP technology advances so quickly and creates new opportunities.  
-For example What will happen after the arrival of zkEVM?  
+ZKP technology advances so quickly and is expanding new possibilities.
+For example what will happen after the arrival of zkEVM?  
 
 I expect these problems will be solved in near future.  
 
