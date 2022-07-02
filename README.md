@@ -39,6 +39,11 @@ In this project, by utilizing Zero Knowledge proofs, the game can achieve the in
 # Polygonscan links of smart contracts:
 https://mumbai.polygonscan.com/address/0x37962B31e86315F830eD725260519396A1F56865#code
 
+### Polygon Testnet Mumbai
+- hitAndBlow contract deployed to: 0x37962B31e86315F830eD725260519396A1F56865
+- verifier contract deployed to: 0x36939F47cB135e9Dabd0770817d4fA98719c7757
+- poseidon contract deployed to: 0x3bE320d3955BfC7175B37aDf99a3C82E8237EF2a
+
 # Challenges faced:
 Terrible UX😱
 
@@ -62,6 +67,4 @@ https://user-images.githubusercontent.com/3497643/176992128-b1daca20-1e1c-4032-b
 
 # Demo Site
 https://hit-and-blow-onchain-polygon.herokuapp.com/
-
-
 
