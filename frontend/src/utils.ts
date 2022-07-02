@@ -131,11 +131,10 @@ export const retryIfFailed = <T extends any[]>(
     // default maxPriorityFeePerGas is too low...
     const argsWithGasFee = [
       ...args,
-      { maxPriorityFeePerGas: 1000000000 * 40, maxFeePerGas: 1000000000 * 41 },
+      { maxPriorityFeePerGas: 1000000000 * 50, maxFeePerGas: 1000000000 * 51 },
     ] as T;
 
     for (let i = 0; i < repeat; i++) {
-      console.log("call transaction!!!");
       const tx = await fn(...argsWithGasFee);
       // status:0(transaction error)の場合はerrorを返すのでrecieptは返らない
       const reciept = await tx.wait().catch((err) => {
