@@ -21,7 +21,7 @@ The first player to reveal the other's secret number wins the game.
 ```
 https://en.wikipedia.org/wiki/Bulls_and_Cows
 
-# the problem it is solving:
+# The problem it is solving:
 The problem is that the game needs a third party to prevent cheating or miscounting in mid-game.   
 This characteristic makes it difficult to develop trustless fully onchain games and many other games have the same kind of characteristics.  
 In this project, by utilizing Zero Knowledge proofs, the game can achieve the integrity of the game without relying on any third party and be enabled to be fully onchain.  
@@ -56,6 +56,12 @@ I expect these problems will be solved in near future.
 
 Currently most of blockchain game users don't care about trustlessness. But if trustless fully onchain games can achieve the same level of UX as trustfull games, users must prefer fair and transparent games.
 
+# Demo Play (2x speed)
+https://user-images.githubusercontent.com/3497643/176992128-b1daca20-1e1c-4032-b5ba-1961ebe3889e.mov
+
+
+# Demo Site
+https://hit-and-blow-onchain-polygon.herokuapp.com/
 
 
 
