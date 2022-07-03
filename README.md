@@ -47,17 +47,18 @@ https://mumbai.polygonscan.com/address/0x37962B31e86315F830eD725260519396A1F5686
 # Challenges faced:
 Terrible UX😱
 
+These important features haven't been implemented yet (just because it takes time):
+- Can not play multi games simultaneously. (When other players are playing the game you can only just watch it.)
+- Not PvP but Player vs Bot. (Currently when you start playing the game, the bot automaticaly starts to play the game as your opponent for the convenience of a test play.)
+- No time limit. (When the player or bot stops playing in the middle, the game gets stuck…)
+- No upgradability.
+
 ZKP(zero knowledge proofs) can make games fully onchain but currently blockchian itself doesn't work so well as a game's backend.
 - Games need short delay instant finality
 - Difficult to decide a gas fee for fast inclusion in the block
 - Don't want to interact with MetaMask everytime.  
 etc. 
 
-and not yet implemented features:
-- Can not play multi games simultaneously. (When other players are playing the game you can only just watch it.)
-- Not PvP but Player vs Bot. (Currently when you start playing the game, the bot automaticaly starts to play the game as your opponent for the convenience of a test play.)
-- No time limit. (When the player or bot stops playing in the middle, the game gets stuck…)
-- No upgradability.
 
 In the blockchain field, recently many problems have been solved by ZKP.  
 ZKP technology advances so quickly and is expanding new possibilities.
